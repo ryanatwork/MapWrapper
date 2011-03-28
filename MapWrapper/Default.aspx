@@ -92,9 +92,9 @@
     This map uses 2010 Census Data available from ESRI here - <a href="http://server.arcgisonline.com/ArcGIS/rest/services/Demographics/" target="_blank">http://server.arcgisonline.com/ArcGIS/rest/services/Demographics/</a>
     <br />
     <br />
-    The map is centered on my hometown of Santa Clarita, CA - Zoom out to see the entire US.
+    <%--The map is centered on my hometown of Santa Clarita, CA - Zoom out to see the entire US.
     <br />
-    <br />
+    <br />--%>
     The source for this available on Github - <a href="https://github.com/ryanatwork/2010BasicCensusMap" target="_blank">https://github.com/ryanatwork/2010BasicCensusMap</a>
     
 
